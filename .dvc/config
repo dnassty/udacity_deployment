@@ -2,3 +2,6 @@
     remote = storage
 ['remote "storage"']
     url = s3://udacitydevelopment/dvcstore
+['remote "s3remote"']
+    url = s3://udacitydevelopment/dvcstore
+    profile = udacity
